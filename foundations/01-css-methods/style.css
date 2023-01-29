@@ -1,0 +1,9 @@
+/* my first css file */ 
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    position: center;
+    font-weight: bold;
+}
