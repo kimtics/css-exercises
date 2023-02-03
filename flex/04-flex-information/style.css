@@ -24,3 +24,32 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Additions */
+
+ .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+
+.second_container {
+  display: flex;
+  gap: 52px;
+  
+}
+
+.first, .second, .third, .fourth {
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  text-align: center;
+  align-items: center;
+  
+}
+
+.title {
+  display: flex;
+} 
+
